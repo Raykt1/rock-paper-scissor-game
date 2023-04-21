@@ -1,0 +1,19 @@
+.top-image{
+    width: 300px;
+    margin-left: 0px;
+}
+
+.imgbtn{
+    height: 50px;
+    width: 50px;
+}
+
+.choiceBtn{
+    line-height: 30px;
+    width: 150px;
+    background: #eaeaea;
+    margin: 10px 10px;
+    height: 70px;
+    width: 70px;
+    font-size: 10px;
+}
